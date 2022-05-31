@@ -3,3 +3,5 @@ Look at menus
 Pick toppings
 Order pizza
 Wait for Order
+Finally get Order
+See if it tastes good
